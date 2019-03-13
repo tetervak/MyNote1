@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Notes 1</string>
+    <string name="action_add_sample_data">Add Sample Data</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="enter_a_note">Enter a note</string>
+    <string name="delete_all_notes">Delete all notes</string>
+    <string name="new_note">New note</string>
+    <string name="edit_note">Edit note</string>
+    <string name="delete">Delete</string>
+</resources>
